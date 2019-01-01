@@ -9,6 +9,6 @@
 3: wlo1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default qlen 1000
     link/ether 70:cf:49:96:fe:ab brd ff:ff:ff:ff:ff:ff
     inet 169.233.114.176/20 brd 169.233.127.255 scope global dynamic noprefixroute wlo1
-       valid_lft 9135sec preferred_lft 7336sec
+       valid_lft 13783sec preferred_lft 11996sec
     inet6 fe80::f3b5:c175:2587:ade2/64 scope link 
        valid_lft forever preferred_lft forever
